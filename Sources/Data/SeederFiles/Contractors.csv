@@ -1,0 +1,4 @@
+﻿Name,EmailAddress,PhoneNumber,Street,City,ZipCode,ProvinceId,CompanyName,NipCode,ContractorType
+Jan Testowy,jan.testowy@test.pl,111222333,Testowa 42,Testowo,11-222,1,Test,1111111111,Krajowy,
+Ingrid Testowa,ingrid.testowa@test.de,444555666,Testowa Straße 42,Testburg,12345,29,Test,2222222222,Wewnątrzunijny,
+Lou Testowo,lou.testowo@test.ch,777888999,Testowa Strasse 42,Testewa,1234,42,Test,3333333333,Pozaunijny,
